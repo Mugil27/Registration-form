@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Mugil27/Registration-form.git/static/css/main.41970a6c.chunk.css",
+    "main.js": "/Mugil27/Registration-form.git/static/js/main.29804ed0.chunk.js",
+    "main.js.map": "/Mugil27/Registration-form.git/static/js/main.29804ed0.chunk.js.map",
+    "runtime-main.js": "/Mugil27/Registration-form.git/static/js/runtime-main.1d94778d.js",
+    "runtime-main.js.map": "/Mugil27/Registration-form.git/static/js/runtime-main.1d94778d.js.map",
+    "static/js/2.1d95501d.chunk.js": "/Mugil27/Registration-form.git/static/js/2.1d95501d.chunk.js",
+    "static/js/2.1d95501d.chunk.js.map": "/Mugil27/Registration-form.git/static/js/2.1d95501d.chunk.js.map",
+    "index.html": "/Mugil27/Registration-form.git/index.html",
+    "precache-manifest.c220c4097a0ce0b11f48b99bdf1df313.js": "/Mugil27/Registration-form.git/precache-manifest.c220c4097a0ce0b11f48b99bdf1df313.js",
+    "service-worker.js": "/Mugil27/Registration-form.git/service-worker.js",
+    "static/css/main.41970a6c.chunk.css.map": "/Mugil27/Registration-form.git/static/css/main.41970a6c.chunk.css.map",
+    "static/js/2.1d95501d.chunk.js.LICENSE.txt": "/Mugil27/Registration-form.git/static/js/2.1d95501d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Mugil27/Registration-form.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d94778d.js",
+    "static/js/2.1d95501d.chunk.js",
+    "static/css/main.41970a6c.chunk.css",
+    "static/js/main.29804ed0.chunk.js"
+  ]
+}
